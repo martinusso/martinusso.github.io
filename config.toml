@@ -1,0 +1,15 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Breno Martinusso"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+[taxonomies]
+    category = 'categories'
+    series = 'series'
+    tag = 'tags'
+
+[permalinks]
+    posts = '/:title/'
