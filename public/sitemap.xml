@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://martinusso.com.br/</loc>
+    <lastmod>2021-08-03T18:44:59-03:00</lastmod>
+  </url><url>
+    <loc>https://martinusso.com.br/tags/complexity/</loc>
+    <lastmod>2021-08-03T18:44:59-03:00</lastmod>
+  </url><url>
+    <loc>https://martinusso.com.br/posts/</loc>
+    <lastmod>2021-08-03T18:44:59-03:00</lastmod>
+  </url><url>
+    <loc>https://martinusso.com.br/series/</loc>
+    <lastmod>2021-08-03T18:44:59-03:00</lastmod>
+  </url><url>
+    <loc>https://martinusso.com.br/tags/software-evolution/</loc>
+    <lastmod>2021-08-03T18:44:59-03:00</lastmod>
+  </url><url>
+    <loc>https://martinusso.com.br/tags/</loc>
+    <lastmod>2021-08-03T18:44:59-03:00</lastmod>
+  </url><url>
+    <loc>https://martinusso.com.br/series/the-one-about/</loc>
+    <lastmod>2021-08-03T18:44:59-03:00</lastmod>
+  </url><url>
+    <loc>https://martinusso.com.br/the-one-about-lehmans-laws-of-software-evolution/</loc>
+    <lastmod>2021-08-03T18:44:59-03:00</lastmod>
+  </url><url>
+    <loc>https://martinusso.com.br/about/</loc>
+  </url><url>
+    <loc>https://martinusso.com.br/categories/</loc>
+  </url>
+</urlset>
