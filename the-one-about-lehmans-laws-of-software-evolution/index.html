@@ -1,0 +1,72 @@
+<!doctype html><html>
+<head>
+<meta charset=utf-8>
+<title>
+The One About Lehman's Laws of Software Evolution &ndash; Breno Martinusso
+</title>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link rel=preconnect href=https://fonts.googleapis.com>
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel=stylesheet>
+<style>body{font-family:source sans pro,sans-serif;max-width:620px;margin:0 auto;padding:10px}</style>
+</head>
+<body data-url=/the-one-about-lehmans-laws-of-software-evolution/>
+You are here: Home / Acronyms and Abbreviations
+<h1>The One About Lehman's Laws of Software Evolution</h1>
+<p>Over the decades (studies on <strong>software evolution</strong> started in the late 1960s), Meir Lehman and László Bélády formulated, proposed and improved eight “laws” that we today call <strong>Lehman’s Laws of Software Evolution</strong>.</p>
+<p><strong>I - Law of continuing change</strong></p>
+<ul>
+<li>An E-type system must be continually adapted, else it becomes progressively less satisfactory in use.</li>
+</ul>
+<p><strong>II - Law of increasing complexity</strong></p>
+<ul>
+<li>As an E-type is changed, its complexity increases and becomes more difficult to evolve unless work is performed to maintain or to reduce the complexity.</li>
+</ul>
+<p><strong>III - Law of self-regulation</strong></p>
+<ul>
+<li>Global E-type system evolution is feedback regulated.</li>
+</ul>
+<p><strong>IV - Law of conservation of organizational stability</strong></p>
+<ul>
+<li>The work rate of an organization evolving an E-type software system tends to be constant over the operational lifetime of that system or phases of that lifetime.</li>
+</ul>
+<p><strong>V - Law of conservation of familiarity</strong></p>
+<ul>
+<li>In general, the incremental growth (growth rate trend) of E-type systems is constrained by the need to maintain familiarity.</li>
+</ul>
+<p><strong>VI - Law of continuing growth</strong></p>
+<ul>
+<li>The functional capability of E-type systems must be continually enhanced to maintain user satisfaction over system lifetime.</li>
+</ul>
+<p><strong>VII - Law of declining quality</strong></p>
+<ul>
+<li>Unless rigorously adapted and evolved to take into account changes in the operational environment, the quality of an E-type system will appear to be declining.</li>
+</ul>
+<p><strong>VIII - Law of feedback system</strong></p>
+<ul>
+<li>E-type evolution processes are multilevel, multiloop, and multiagent feedback systems.</li>
+</ul>
+<h2 id=fundamental-trouble-behind-software-evolution>Fundamental trouble behind software evolution</h2>
+<p>The first two laws, which are mildly conflicting each other, show the fundamental trouble behind software evolution:</p>
+<ul>
+<li>Software must be continuously changed to adapt to the environment.</li>
+<li>Changes increase the complexity of software.</li>
+</ul>
+<p>In other words, <strong>software must change, but changes increase complexity</strong>. Unless work is performed to maintain or to reduce the complexity.</p>
+<p>To deal with this trouble, we can consider what Martin Fowler said in his book Refactoring:</p>
+<blockquote>
+<p>&ldquo;When you have to add a feature to a program but the code is not structured in a convenient way, first refactor the program to make it easy to add the feature, then add the feature&rdquo;.</p>
+</blockquote>
+<h2 id=the-spe-scheme>The SPE scheme</h2>
+<p>Initially the laws of software evolution were thought to be valid for large software projects.
+But, in the early 1980s Lehman substituted the notion of &ldquo;large programs&rdquo; by a more specific classification, the SPE scheme:</p>
+<ul>
+<li><strong>S-type (specified)</strong> programs are derivable from a static specification, and can be formally proven as correct or not.</li>
+<li><strong>P-type (problem)</strong> programs attempt to solve problems that can be formulated formally, but which are not computationally affordable.</li>
+<li><strong>E-type (evolving)</strong> programs are embedded in the real world and it changes as the world does.</li>
+</ul>
+<p>As can thus be seen, only one of those categories, E-type, is described by the laws.
+This is due to the fact that, unlike E-type, S-type software does not show an evolutionary behavior. Once the program is written, it is either correct or not with respect to a specification.
+And further studies of P-type programs suggested that, in practice, they always satisfied the definition of either S-type or E-type. Thus, in his subsequent work Lehman ignored P-type.</p>
+</body>
+</html>
