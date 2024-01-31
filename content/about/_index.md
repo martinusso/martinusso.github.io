@@ -3,8 +3,8 @@ layout = "single"
 title = "Breno Martinusso"
 +++
 
-I'm a brazilian entrepreneur and software engineer. Since 2001, I've been learning and using a lot of technologies and languages to build software.
-       
-I enjoy coding, reading, trekking, and thinking about the life, the universe, and everything.
+I'm a Brazilian software engineer with a passion to solve complex technical challenges while spearheading impactful change.
+
+Since 2001, I have adeptly mastered a diverse range of technologies and programming languages.
 
 You can follow me on [GitHub](https://github.com/martinusso) or [LinkedIn](https://linkedin.com/in/martinusso).
