@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fragments on Breno Martinusso</title>
-    <link>http://localhost:1313/series/fragments/</link>
+    <link>https://martinusso.com.br/series/fragments/</link>
     <description>Recent content in Fragments on Breno Martinusso</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Apr 2025 18:45:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/fragments/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://martinusso.com.br/series/fragments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fragments on Teams</title>
-      <link>http://localhost:1313/notes/fragments-on-teams/</link>
+      <link>https://martinusso.com.br/notes/fragments-on-teams/</link>
       <pubDate>Sun, 20 Apr 2025 18:45:00 -0300</pubDate>
-      <guid>http://localhost:1313/notes/fragments-on-teams/</guid>
+      <guid>https://martinusso.com.br/notes/fragments-on-teams/</guid>
       <description>A curated collection of thought-provoking quotes and insights on teamwork, collaboration, and building high-performing teams in any environment.</description>
     </item>
     <item>
       <title>Fragments on Documentation</title>
-      <link>http://localhost:1313/notes/fragments-on-documentation/</link>
+      <link>https://martinusso.com.br/notes/fragments-on-documentation/</link>
       <pubDate>Sun, 20 Apr 2025 18:34:00 -0300</pubDate>
-      <guid>http://localhost:1313/notes/fragments-on-documentation/</guid>
+      <guid>https://martinusso.com.br/notes/fragments-on-documentation/</guid>
       <description>A curated collection of impactful quotes and reflections on the role, challenges, and best practices of documentation in software development</description>
     </item>
   </channel>

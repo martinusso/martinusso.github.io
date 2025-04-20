@@ -11,3 +11,9 @@
 ```
 hugo server
 ```
+
+## Deploy
+
+```
+hugo
+```

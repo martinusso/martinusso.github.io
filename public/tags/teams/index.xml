@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Breno Martinusso</title>
-    <link>http://localhost:1313/tags/teams/</link>
+    <link>https://martinusso.com.br/tags/teams/</link>
     <description>Recent content in Teams on Breno Martinusso</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Apr 2025 18:45:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/teams/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://martinusso.com.br/tags/teams/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fragments on Teams</title>
-      <link>http://localhost:1313/notes/fragments-on-teams/</link>
+      <link>https://martinusso.com.br/notes/fragments-on-teams/</link>
       <pubDate>Sun, 20 Apr 2025 18:45:00 -0300</pubDate>
-      <guid>http://localhost:1313/notes/fragments-on-teams/</guid>
+      <guid>https://martinusso.com.br/notes/fragments-on-teams/</guid>
       <description>A curated collection of thought-provoking quotes and insights on teamwork, collaboration, and building high-performing teams in any environment.</description>
     </item>
   </channel>
