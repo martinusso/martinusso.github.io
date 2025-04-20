@@ -1,8 +1,12 @@
 # martinusso.com.br
 
-## Hugo
+## Dependencies
 
-run
+- Go
+- Hugo
+  - `go install github.com/gohugoio/hugo@latest`
+
+## Running
 
 ```
 hugo server
