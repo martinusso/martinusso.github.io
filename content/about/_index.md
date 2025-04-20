@@ -3,8 +3,8 @@ layout = "single"
 title = "Breno Martinusso"
 +++
 
-I'm a Brazilian software engineer with a passion to solve complex technical challenges while spearheading impactful change.
+I'm a Brazilian software engineer with a strong drive to create impact through innovative solutions and strategic improvements.
 
-Since 2001, I have adeptly mastered a diverse range of technologies and programming languages.
+With over two decades of experience, I have led projects that not only solve complex technical challenges but also drive measurable outcomes for products and teams.
 
-You can follow me on [GitHub](https://github.com/martinusso) or [LinkedIn](https://linkedin.com/in/martinusso).
+You can find me on [GitHub](https://github.com/martinusso) or [LinkedIn](https://linkedin.com/in/martinusso).
