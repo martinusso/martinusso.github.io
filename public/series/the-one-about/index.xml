@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/series/the-one-about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The One About Lehman&#39;s Laws of Software Evolution</title>
-      <link>http://localhost:1313/the-one-about-lehmans-laws-of-software-evolution/</link>
+      <link>http://localhost:1313/notes/the-one-about-lehmans-laws-of-software-evolution/</link>
       <pubDate>Tue, 03 Aug 2021 18:44:59 -0300</pubDate>
-      <guid>http://localhost:1313/the-one-about-lehmans-laws-of-software-evolution/</guid>
+      <guid>http://localhost:1313/notes/the-one-about-lehmans-laws-of-software-evolution/</guid>
       <description>In the words of Lehman, “Evolution is an essential property of real-world software” and “As your needs change, your criteria for satisfaction changes”</description>
     </item>
   </channel>
