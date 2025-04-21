@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Breno Martinusso</title>
-    <link>https://martinusso.com.br/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Breno Martinusso</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 18:45:00 -0300</lastBuildDate>
-    <atom:link href="https://martinusso.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Apr 2025 14:54:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaboration</title>
+      <link>http://localhost:1313/tags/collaboration/</link>
+      <pubDate>Mon, 21 Apr 2025 14:54:00 -0300</pubDate>
+      <guid>http://localhost:1313/tags/collaboration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Efficient</title>
+      <link>http://localhost:1313/tags/efficient/</link>
+      <pubDate>Mon, 21 Apr 2025 14:54:00 -0300</pubDate>
+      <guid>http://localhost:1313/tags/efficient/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Teams</title>
-      <link>https://martinusso.com.br/tags/teams/</link>
+      <link>http://localhost:1313/tags/teams/</link>
       <pubDate>Sun, 20 Apr 2025 18:45:00 -0300</pubDate>
-      <guid>https://martinusso.com.br/tags/teams/</guid>
+      <guid>http://localhost:1313/tags/teams/</guid>
       <description></description>
     </item>
     <item>
       <title>Documentation</title>
-      <link>https://martinusso.com.br/tags/documentation/</link>
+      <link>http://localhost:1313/tags/documentation/</link>
       <pubDate>Sun, 20 Apr 2025 18:34:00 -0300</pubDate>
-      <guid>https://martinusso.com.br/tags/documentation/</guid>
+      <guid>http://localhost:1313/tags/documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Complexity</title>
-      <link>https://martinusso.com.br/tags/complexity/</link>
+      <link>http://localhost:1313/tags/complexity/</link>
       <pubDate>Tue, 03 Aug 2021 18:44:59 -0300</pubDate>
-      <guid>https://martinusso.com.br/tags/complexity/</guid>
+      <guid>http://localhost:1313/tags/complexity/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Evolution</title>
-      <link>https://martinusso.com.br/tags/software-evolution/</link>
+      <link>http://localhost:1313/tags/software-evolution/</link>
       <pubDate>Tue, 03 Aug 2021 18:44:59 -0300</pubDate>
-      <guid>https://martinusso.com.br/tags/software-evolution/</guid>
+      <guid>http://localhost:1313/tags/software-evolution/</guid>
       <description></description>
     </item>
   </channel>
