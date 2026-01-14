@@ -1,5 +1,6 @@
 ---
 title: "Technical Decision Record"
+summary: "Template for documenting technical decisions, including rationale, impacts, alternatives, and decision status."
 draft: false
 ---
 

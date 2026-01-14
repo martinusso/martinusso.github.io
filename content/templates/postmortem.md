@@ -1,5 +1,6 @@
 ---
 title: "Postmortem"
+summary: "Template for incident postmortems documenting root causes, investigation, corrective actions, and preventive measures."
 draft: false
 ---
 
@@ -91,19 +92,19 @@ _Illustrative example (literary):_
 
 Chronological sequence of key events.
 
-- **Detected** — Initial signal or anomaly observed
-- **Investigating** — Active investigation started
-- **Identified** — Root cause understood
-- **Mitigation attempted** — Actions taken to reduce impact
-- **Resolved** — Incident closed
+- **Detected** - Initial signal or anomaly observed
+- **Investigating** - Active investigation started
+- **Identified** - Root cause understood
+- **Mitigation attempted** - Actions taken to reduce impact
+- **Resolved** - Incident closed
 
 _Illustrative example (literary):_
 
-- Detected — Romeo and Juliet meet.
-- Investigating — Families monitor rumors in Verona.
-- Identified — Secret marriage uncovered.
-- Mitigation attempted — Friar Laurence proposes a reconciliation plan.
-- Resolved — Juliet awakens, finds Romeo dead, and dies.
+- Detected - Romeo and Juliet meet.
+- Investigating - Families monitor rumors in Verona.
+- Identified - Secret marriage uncovered.
+- Mitigation attempted - Friar Laurence proposes a reconciliation plan.
+- Resolved - Juliet awakens, finds Romeo dead, and dies.
 
 ## Lessons learned
 

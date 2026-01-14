@@ -1,5 +1,6 @@
 ---
 title: "Runbook"
+summary: "Template for operational runbooks covering symptoms, diagnosis, mitigation, resolution, and escalation procedures."
 draft: false
 ---
 
